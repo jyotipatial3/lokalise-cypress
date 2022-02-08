@@ -26,13 +26,17 @@ cypress --version 9.4.1
 
 ## Scenarios covered in this test
 Test execution videos can be found under cypress/videos
-1. lokalise_addFirstProject 
+1. lokalise_addFirstProject -->
+   
    This spec file covers 'Adding first project' and verifies if only one project is created successfully
-2. lokalise_addSecondProject
+2. lokalise_addSecondProject -->
+   
    This spec file covers 'Adding nth project' and verifies if the second project is created successfully. After the verification is done, the project is deleted
-3. lokalise_addKeyAndTranslation
+3. lokalise_addKeyAndTranslation -->
+   
    This spec file covers 'Adding first key' and 'Add translation for plain key'. Here, verification is done on whether the key has been successfully created inside the existing empty project or not, and then adding and verifying translation added to that key. After the verification is performed, added key in the project is deleted
-4. lokalise_addPluralKeyAndTranslation
+4. lokalise_addPluralKeyAndTranslation -->
+   
    This spec file covers 'Adding plural key' and 'Add translation for plural key'. Here, verification is done on whether the key has been successfully created inside the existing empty project or not, and then adding and verifying translation added to that key. After the verification is performed, added key and the project is deleted
 
 ## Articles on Cypress
