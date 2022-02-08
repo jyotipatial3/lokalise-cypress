@@ -1,0 +1,15 @@
+{
+  "chromeWebSecurity": false,
+  "reporter": "../node_modules/mochawesome/src/mochawesome.js",
+  "reporterOptions": {
+    "overwrite": false,
+    "html": false,
+    "json": true
+  },
+  "testFiles": [
+    "lokalise_addFirstProject.spec.js",
+    "lokalise_addSecondProject.spec.js",
+    "lokalise_addKeyAndTranslation.spec.js",
+    "lokalise_addPluralKeyAndTranslation.spec.js"
+    ]
+}

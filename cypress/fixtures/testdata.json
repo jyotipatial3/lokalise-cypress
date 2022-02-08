@@ -1,0 +1,9 @@
+{
+  "baseURL"  : "https://stage.lokalise.com/projects",
+  "userName" : "jyoti.patial@trivago.com",
+  "password" : "Jyoti@1234",
+  "projectName" : "New Web Project I",
+  "secondProjectName" : "New Web Project II",
+  "translationText" : "Add translation",
+  "translatedText" : "Übersetzung hinzufügen"
+}
